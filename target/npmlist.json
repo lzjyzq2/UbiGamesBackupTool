@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"ubigamesbackuptool","dependencies":{"@tauri-apps/api":{"version":"1.1.0"},"@varlet/touch-emulator":{"version":"1.27.20"},"@varlet/ui":{"version":"2.0.2"},"@vueuse/core":{"version":"9.3.1"},"dayjs":{"version":"1.11.5"},"vue-router":{"version":"4.1.5"},"vue":{"version":"3.2.41"}}}

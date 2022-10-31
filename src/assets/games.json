@@ -1,0 +1,1032 @@
+[
+    {
+        "id": 2,
+        "name": "Tom Clancy's Splinter Cell Conviction",
+        "platform": "Uplay/Steam",
+        "img": "7c50f4211b2ad736ce0f3ea84533da8c.png",
+        "title": "Tom Clancy's Splinter Cell Conviction",
+        "appname": "",
+        "picture": "Tom Clancy's Splinter Cell Conviction™ Deluxe Edition.jpg",
+        "process": null
+    },
+    {
+        "id": 3,
+        "name": "Silent Hunter 5",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Silent Hunter 5",
+        "appname": "",
+        "picture": "Silent Hunter 5® - Battle of the Atlantic.jpg",
+        "process": null
+    },
+    {
+        "id": 4,
+        "name": "Assassin's Creed II Deluxe Edition",
+        "platform": "Uplay/Steam",
+        "img": "63dc715bf7eff988d902f78170c231a8.png",
+        "title": "Assassin's Creed II",
+        "appname": "",
+        "picture": "Assassin's Creed 2 Deluxe Edition.jpg",
+        "process": null
+    },
+    {
+        "id": 11,
+        "name": "Prince of Persia: The Forgotten Sands",
+        "platform": "Steam",
+        "img": "",
+        "title": "Prince of Persia: The Forgotten Sands",
+        "appname": "",
+        "picture": "Prince of Persia - The Forgotten Sands™.jpg",
+        "process": null
+    },
+    {
+        "id": 20,
+        "name": "Shaun White Snowboarding",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Shaun White Snowboarding",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 40,
+        "name": "Assassin's Creed Revelations",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Revelations",
+        "appname": "",
+        "picture": "Assassin's Creed® Revelations.jpg",
+        "process": null
+    },
+    {
+        "id": 44,
+        "name": "Might & Magic: Heroes VI - Shades of Darkness",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Might & Magic: Heroes VI - Shades of Darkness",
+        "appname": "",
+        "picture": "Might & Magic - Heroes VI-Shades of Darkness.jpg",
+        "process": null
+    },
+    {
+        "id": 46,
+        "name": "Far Cry 3",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Far Cry 3",
+        "appname": "",
+        "picture": "Far Cry 3.jpg",
+        "process": null
+    },
+    {
+        "id": 47,
+        "name": "Might & Magic: Heroes VI - Shades of Darkness",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Might & Magic: Heroes VI - Shades of Darkness",
+        "appname": "",
+        "picture": "Might & Magic - Heroes VI-Shades of Darkness.jpg",
+        "process": null
+    },
+    {
+        "id": 53,
+        "name": "Tom Clancy's Ghost Recon Future Soldier",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Tom Clancy's Ghost Recon Future Soldier",
+        "appname": "",
+        "picture": "Tom Clancy's Ghost Recon - Future Soldier™.jpg",
+        "process": null
+    },
+    {
+        "id": 54,
+        "name": "Assassin's Creed III",
+        "img": "5f8ff7342c36b1281c9e1530dc5fbac0.png",
+        "platform": "Uplay/Steam",
+        "title": "Assassin's Creed III",
+        "appname": "",
+        "picture": "Assassin's Creed® III.jpg",
+        "process": null
+    },
+    {
+        "id": 78,
+        "name": "Trials Evolution: Gold Edition",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Trials Evolution",
+        "appname": "",
+        "picture": "Trials Evolution - Gold Edition.jpg",
+        "process": null
+    },
+    {
+        "id": 91,
+        "name": "Tom Clancy's Splinter Cell Blacklist",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Tom Clancy's Splinter Cell Blacklist",
+        "appname": "",
+        "picture": "Tom Clancy’s Splinter Cell Blacklist.jpg",
+        "process": null
+    },
+    {
+        "id": 111,
+        "name": "Prince of Persia: The Sands of Time",
+        "img": "d6d30d25990fa94028b02c1f7ccaaeed.png",
+        "platform": "Uplay",
+        "title": "Prince of Persia: The Sands of Time",
+        "appname": "",
+        "picture": "Prince of Persia® - The Sands of Time.jpg",
+        "process": null
+    },
+    {
+        "id": 205,
+        "name": "Far Cry 3 - Blood Dragon",
+        "img": "5d6d4aff77933b40247c251e41416b52.png",
+        "platform": "Uplay",
+        "title": "Far Cry 3 - Blood Dragon",
+        "appname": "",
+        "picture": "Far Cry 3 - Blood Dragon.jpg",
+        "process": null
+    },
+    {
+        "id": 273,
+        "name": "Assassin's Creed IV Black Flag ROW",
+        "img": "21edfad5262ff2311072336c5f1f0ebb.png",
+        "platform": "Uplay",
+        "title": "Assassin's Creed IV Black Flag",
+        "appname": "",
+        "picture": "Assassin’s Creed® IV Black Flag™.jpg",
+        "process": null
+    },
+    {
+        "id": 274,
+        "name": "Watch_Dogs ROW",
+        "img": "ad39565a562de39b62459979f587acae.png",
+        "platform": "Uplay",
+        "title": "Watch_Dogs",
+        "appname": "",
+        "picture": "Watch_Dogs™.jpg",
+        "process": null
+    },
+    {
+        "id": 297,
+        "name": "Trials Fusion",
+        "platform": "Uplay",
+        "img": "831aad44946bcea2a9c9bb9cbfae736e.png",
+        "title": "Trials Fusion",
+        "appname": "",
+        "picture": "Trials Fusion™.jpg",
+        "process": null
+    },
+    {
+        "id": 318,
+        "name": "Trials Fusion",
+        "platform": "Steam",
+        "img": "831aad44946bcea2a9c9bb9cbfae736e.png",
+        "title": "Trials Fusion",
+        "appname": "",
+        "picture": "Trials Fusion™.jpg",
+        "process": null
+    },
+    {
+        "id": 402,
+        "name": "Might & Magic X - Legacy",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Might & Magic X - Legacy",
+        "appname": "",
+        "picture": "Might & Magic X - Legacy.jpg",
+        "process": null
+    },
+    {
+        "id": 420,
+        "name": "Far Cry 4",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Far Cry 4",
+        "appname": "",
+        "picture": "Far Cry® 4.jpg",
+        "process": null
+    },
+    {
+        "id": 437,
+        "name": "Assassin's Creed IV Black Flag",
+        "img": "21edfad5262ff2311072336c5f1f0ebb.png",
+        "platform": "Steam",
+        "title": "Assassin's Creed IV Black Flag",
+        "appname": "",
+        "picture": "Assassin’s Creed® IV Black Flag™.jpg",
+        "process": null
+    },
+    {
+        "id": 441,
+        "name": "Assassin's Creed IV Black Flag RUS",
+        "img": "21edfad5262ff2311072336c5f1f0ebb.png",
+        "platform": "Uplay",
+        "title": "Assassin's Creed IV Black Flag",
+        "appname": "",
+        "picture": "Assassin’s Creed® IV Black Flag™.jpg",
+        "process": null
+    },
+    {
+        "id": 442,
+        "name": "Assassin's Creed IV Black Flag Asia",
+        "img": "21edfad5262ff2311072336c5f1f0ebb.png",
+        "platform": "Uplay",
+        "title": "Assassin's Creed IV Black Flag",
+        "appname": "",
+        "picture": "Assassin’s Creed® IV Black Flag™.jpg",
+        "process": null
+    },
+    {
+        "id": 449,
+        "name": "Tom Clancy's Splinter Cell Blacklist",
+        "img": "49b28744ca78d0d144c9e6dc1aa3d085.png",
+        "platform": "Steam",
+        "title": "Tom Clancy's Splinter Cell Blacklist",
+        "appname": "",
+        "picture": "Tom Clancy’s Splinter Cell Blacklist.jpg",
+        "process": null
+    },
+    {
+        "id": 541,
+        "name": "Watch_Dogs",
+        "img": "ad39565a562de39b62459979f587acae.png",
+        "platform": "Steam",
+        "title": "Watch_Dogs",
+        "appname": "",
+        "picture": "Watch_Dogs™.jpg",
+        "process": null
+    },
+    {
+        "id": 543,
+        "name": "Watch_Dogs RUS",
+        "img": "ad39565a562de39b62459979f587acae.png",
+        "platform": "Uplay",
+        "title": "Watch_Dogs",
+        "appname": "",
+        "picture": "Watch_Dogs™.jpg",
+        "process": null
+    },
+    {
+        "id": 545,
+        "name": "Watch_Dogs Asia",
+        "img": "ad39565a562de39b62459979f587acae.png",
+        "platform": "Uplay",
+        "title": "Watch_Dogs",
+        "appname": "",
+        "picture": "Watch_Dogs™.jpg",
+        "process": null
+    },
+    {
+        "id": 609,
+        "name": "Child of Light",
+        "platform": "Uplay",
+        "img": "7973711bfada4f1c052e478e4f878700.png",
+        "title": "Child of Light",
+        "appname": "",
+        "picture": "Child of Light.jpg",
+        "process": null
+    },
+    {
+        "id": 611,
+        "name": "Child of Light",
+        "platform": "Steam",
+        "img": "7973711bfada4f1c052e478e4f878700.png",
+        "title": "Child of Light",
+        "appname": "",
+        "picture": "Child of Light.jpg",
+        "process": null
+    },
+    {
+        "id": 625,
+        "name": "Assassin's Creed Liberation HD",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Assassin's Creed Liberation HD",
+        "appname": "",
+        "picture": "Assassin’s Creed® Liberation HD.jpg",
+        "process": null
+    },
+    {
+        "id": 632,
+        "name": "Assassin's Creed Liberation HD",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Liberation HD",
+        "appname": "",
+        "picture": "Assassin’s Creed® Liberation HD.jpg",
+        "process": null
+    },
+    {
+        "id": 635,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "img": "b1d5066f0d872c26f41b65d70926ddc7.png",
+        "platform": "Uplay",
+        "title": "Rainbow Six Siege",
+        "appname": "",
+        "picture": "Tom Clancy's Rainbow Six® Siege.jpg",
+        "process": null
+    },
+    {
+        "id": 659,
+        "name": "Valiant Hearts: The Great War",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Valiant Hearts: The Great War",
+        "appname": "",
+        "picture": "Valiant Hearts - The Great War™ ／ Soldats Inconnus ： Mémoires de la Grande Guerre™.jpg",
+        "process": null
+    },
+    {
+        "id": 661,
+        "name": "Valiant Hearts: The Great War",
+        "platform": "Steam",
+        "img": "",
+        "title": "Valiant Hearts: The Great War",
+        "appname": "",
+        "picture": "Valiant Hearts - The Great War™ ／ Soldats Inconnus ： Mémoires de la Grande Guerre™.jpg",
+        "process": null
+    },
+    {
+        "id": 664,
+        "name": "Assassin's Creed Freedom Cry",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Assassin's Creed Freedom Cry",
+        "appname": "",
+        "picture": "Assassin's Creed Freedom Cry.jpg",
+        "process": null
+    },
+    {
+        "id": 665,
+        "name": "Assassin's Creed Freedom Cry",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Freedom Cry",
+        "appname": "",
+        "picture": "Assassin's Creed Freedom Cry.jpg",
+        "process": null
+    },
+    {
+        "id": 720,
+        "name": "Assassin's Creed Unity",
+        "img": "59bbabde8aff65589071ef743a051206.png",
+        "platform": "Uplay",
+        "title": "Assassin's Creed® Unity",
+        "appname": "",
+        "picture": "Assassin's Creed® Unity.jpg",
+        "process": null
+    },
+    {
+        "id": 828,
+        "name": "Watch_Dogs Asia",
+        "img": "ad39565a562de39b62459979f587acae.png",
+        "platform": "Uplay",
+        "title": "Watch_Dogs",
+        "appname": "",
+        "picture": "Watch_Dogs™.jpg",
+        "process": null
+    },
+    {
+        "id": 834,
+        "name": "Trials Fusion Demo",
+        "platform": "Steam",
+        "img": "",
+        "title": "Trials Fusion",
+        "appname": "",
+        "picture": "Trials Fusion™.jpg",
+        "process": null
+    },
+    {
+        "id": 856,
+        "name": "Far Cry 4",
+        "platform": "Steam",
+        "img": "",
+        "title": "Far Cry 4",
+        "appname": "",
+        "picture": "Far Cry® 4.jpg",
+        "process": null
+    },
+    {
+        "id": 857,
+        "name": "Assassin's Creed Unity",
+        "img": "59bbabde8aff65589071ef743a051206.png",
+        "platform": "Steam",
+        "title": "Assassin's Creed® Unity",
+        "appname": "",
+        "picture": "Assassin's Creed® Unity.jpg",
+        "process": null
+    },
+    {
+        "id": 895,
+        "name": "Assassin's Creed Rogue",
+        "platform": "Uplay",
+        "img": "7ac3de977a8fe59e0da11b8c96aad24a.png",
+        "title": "Assassin's Creed Rogue",
+        "appname": "",
+        "picture": "Assassin’s Creed® Rogue.jpg",
+        "process": null
+    },
+    {
+        "id": 934,
+        "name": "Assassin's Creed Rogue",
+        "platform": "Steam",
+        "img": "7ac3de977a8fe59e0da11b8c96aad24a.png",
+        "title": "Assassin's Creed Rogue",
+        "appname": "",
+        "picture": "Assassin’s Creed® Rogue.jpg",
+        "process": null
+    },
+    {
+        "id": 1176,
+        "name": "Might & Magic: Heroes VII",
+        "platform": "Uplay",
+        "img": "be957d9fbcd5c0d2624e58832f504d14.png",
+        "title": "Might & Magic: Heroes VII",
+        "appname": "",
+        "picture": "Might & Magic® Heroes® VII.jpg",
+        "process": null
+    },
+    {
+        "id": 1177,
+        "name": "Might & Magic: Heroes VII",
+        "platform": "Steam",
+        "img": "be957d9fbcd5c0d2624e58832f504d14.png",
+        "title": "Might & Magic: Heroes VII",
+        "appname": "",
+        "picture": "Might & Magic® Heroes® VII.jpg",
+        "process": null
+    },
+    {
+        "id": 1253,
+        "name": "Anno 2205",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Anno 2205",
+        "appname": "",
+        "picture": "Anno 2205™.jpg",
+        "process": null
+    },
+    {
+        "id": 1348,
+        "name": "Child of Light",
+        "platform": "育碧中国/杉果",
+        "img": "",
+        "title": "Child of Light",
+        "appname": "",
+        "picture": "Child of Light.jpg",
+        "process": null
+    },
+    {
+        "id": 1428,
+        "name": "Watch Dogs US",
+        "platform": "Steam",
+        "img": "ad39565a562de39b62459979f587acae.png",
+        "title": "Watch Dogs",
+        "appname": "",
+        "picture": "Watch_Dogs™.jpg",
+        "process": null
+    },
+    {
+        "id": 1651,
+        "name": "Assassin's Creed Chronicles China",
+        "platform": "Uplay",
+        "img": "aa3e99ad561e41b93d2d2a5a6875409c.png",
+        "title": "Assassin's Creed Chronicles China",
+        "appname": "",
+        "picture": "Assassin’s Creed® Chronicles - China.jpg",
+        "process": null
+    },
+    {
+        "id": 1771,
+        "name": "Tom Clancy's Ghost Recon Wildlands",
+        "img": "6dc3e7586c0813ceb56e5a37fb971b18.png",
+        "platform": "Uplay",
+        "title": "Ghost Recon® Wildlands",
+        "appname": "",
+        "picture": "Tom Clancy's Ghost Recon® Wildlands.jpg",
+        "process": null
+    },
+    {
+        "id": 1803,
+        "name": "Far Cry 5",
+        "platform": "Uplay",
+        "img": "e96bb3464f0934a469078ade5f1d0e0a.png",
+        "title": "Far Cry 5",
+        "appname": "",
+        "picture": "Far Cry® 5.jpg",
+        "process": null
+    },
+    {
+        "id": 1841,
+        "name": "Assassin's Creed Chronicles China",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Chronicles China",
+        "appname": "",
+        "picture": "Assassin’s Creed® Chronicles - China.jpg",
+        "process": null
+    },
+    {
+        "id": 1843,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "img": "b1d5066f0d872c26f41b65d70926ddc7.png",
+        "platform": "Steam",
+        "title": "Rainbow Six Siege",
+        "appname": "",
+        "picture": "Tom Clancy's Rainbow Six® Siege.jpg",
+        "process": null
+    },
+    {
+        "id": 1847,
+        "name": "Assassin's Creed Chronicles India",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Assassin's Creed Chronicles India",
+        "appname": "",
+        "picture": "Assassin’s Creed® Chronicles - India.jpg",
+        "process": null
+    },
+    {
+        "id": 1848,
+        "name": "Assassin's Creed Chronicles Russia",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Assassin's Creed Chronicles Russia",
+        "appname": "",
+        "picture": "Assassin’s Creed® Chronicles - Russia.jpg",
+        "process": null
+    },
+    {
+        "id": 1849,
+        "name": "Assassin's Creed Chronicles India",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Chronicles India",
+        "appname": "",
+        "picture": "Assassin’s Creed® Chronicles - India.jpg",
+        "process": null
+    },
+    {
+        "id": 1850,
+        "name": "Assassin's Creed Chronicles Russia",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Chronicles Russia",
+        "appname": "",
+        "picture": "Assassin’s Creed® Chronicles - Russia.jpg",
+        "process": null
+    },
+    {
+        "id": 1875,
+        "name": "Assassin's Creed Syndicate Animus",
+        "platform": "Uplay",
+        "img": "e922d4d28ae9b303f770621c5e604ca7.png",
+        "title": "Assassin's Creed Syndicate",
+        "appname": "",
+        "picture": "Assassin's Creed® Syndicate",
+        "process": null
+    },
+    {
+        "id": 1956,
+        "name": "Assassin's Creed Syndicate",
+        "platform": "Uplay",
+        "img": "e922d4d28ae9b303f770621c5e604ca7.png",
+        "title": "Assassin's Creed Syndicate",
+        "appname": "",
+        "picture": "Assassin's Creed® Syndicate.jpg",
+        "process": null
+    },
+    {
+        "id": 1957,
+        "name": "Assassin's Creed Syndicate",
+        "platform": "Steam",
+        "img": "e922d4d28ae9b303f770621c5e604ca7.png",
+        "title": "Assassin's Creed Syndicate",
+        "appname": "",
+        "picture": "Assassin's Creed® Syndicate.jpg",
+        "process": null
+    },
+    {
+        "id": 2010,
+        "name": "Far Cry Primal",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Far Cry Primal",
+        "appname": "",
+        "picture": "Far Cry Primal.jpg",
+        "process": null
+    },
+    {
+        "id": 2029,
+        "name": "Far Cry Primal",
+        "platform": "Steam",
+        "img": "",
+        "title": "Far Cry Primal",
+        "appname": "",
+        "picture": "Far Cry Primal.jpg",
+        "process": null
+    },
+    {
+        "id": 2052,
+        "name": "Anno 2205",
+        "platform": "Steam",
+        "img": "",
+        "title": "Anno 2205",
+        "appname": "",
+        "picture": "Anno 2205™.jpg",
+        "process": null
+    },
+    {
+        "id": 2170,
+        "name": "Champions of Anteria",
+        "platform": "Steam",
+        "img": "",
+        "title": "Champions of Anteria",
+        "appname": "",
+        "picture": "Champions of Anteria™.jpg",
+        "process": null
+    },
+    {
+        "id": 2688,
+        "name": "Watch_Dogs 2",
+        "img": "8ed50864d177441829e82c7afb003f39.png",
+        "platform": "Uplay",
+        "title": "Watch_Dogs 2",
+        "appname": "",
+        "picture": "Watch_Dogs® 2.jpg",
+        "process": null
+    },
+    {
+        "id": 2970,
+        "name": "Tom Clancy's Ghost Recon Wildlands Open Beta",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Ghost Recon® Wildlands",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 3097,
+        "name": "Champions of Anteria Demo",
+        "platform": "Uplay",
+        "img": "724eaefbab6dcd6bf3cb19a2079c04df.png",
+        "title": "Champions of Anteria",
+        "appname": "",
+        "picture": "Champions of Anteria™.jpg",
+        "process": null
+    },
+    {
+        "id": 3098,
+        "name": "Champions of Anteria Demo",
+        "platform": "Steam",
+        "img": "724eaefbab6dcd6bf3cb19a2079c04df.png",
+        "title": "Champions of Anteria",
+        "appname": "",
+        "picture": "Champions of Anteria™.jpg",
+        "process": null
+    },
+    {
+        "id": 3130,
+        "name": "Just Dance 2017",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Just Dance 2017",
+        "appname": "",
+        "picture": "Just Dance 2017.jpg",
+        "process": null
+    },
+    {
+        "id": 3279,
+        "name": "Steep",
+        "platform": "Uplay",
+        "img": "",
+        "title": "",
+        "appname": "",
+        "picture": "Steep™.jpg",
+        "process": null
+    },
+    {
+        "id": 3280,
+        "name": "Steep",
+        "platform": "Steam",
+        "img": "",
+        "title": "Steep",
+        "appname": "",
+        "picture": "Steep™.jpg",
+        "process": null
+    },
+    {
+        "id": 3301,
+        "name": "Trials of the Blood Dragon",
+        "platform": "Steam",
+        "img": "",
+        "title": "Trials of the Blood Dragon",
+        "appname": "",
+        "picture": "Trials of the Blood Dragon.jpg",
+        "process": null
+    },
+    {
+        "id": 3360,
+        "name": "UNO",
+        "platform": "Steam",
+        "img": "",
+        "title": "UNO",
+        "appname": "",
+        "picture": "UNO.jpg",
+        "process": null
+    },
+    {
+        "id": 3445,
+        "name": "Steep Open Beta",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Steep",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 3539,
+        "name": "Assassin's Creed Origins",
+        "img": "173bca0f8923c59a731b6f43a9810970.png",
+        "platform": "Uplay",
+        "title": "Assassin's Creed Origins",
+        "appname": "ACOrigins.exe",
+        "picture": "Assassin's Creed® Origins.jpg",
+        "process": null
+    },
+    {
+        "id": 3559,
+        "name": "Tom Clancy's Ghost Recon Wildlands",
+        "img": "6dc3e7586c0813ceb56e5a37fb971b18.png",
+        "platform": "Steam",
+        "title": "Ghost Recon® Wildlands",
+        "appname": "",
+        "picture": "Tom Clancy's Ghost Recon® Wildlands.jpg",
+        "process": null
+    },
+    {
+        "id": 3584,
+        "name": "South Park: The Stick of Truth",
+        "platform": "Uplay",
+        "img": "",
+        "title": "South Park: The Stick of Truth",
+        "appname": "",
+        "picture": "South Park™ - The Stick of Truth™.jpg",
+        "process": null
+    },
+    {
+        "id": 3600,
+        "name": "Trials Rising",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Trials Rising",
+        "appname": "",
+        "picture": "Trials® Rising.jpg",
+        "process": null
+    },
+    {
+        "id": 3601,
+        "name": "Trials Rising",
+        "platform": "Steam",
+        "img": "",
+        "title": "Trials Rising",
+        "appname": "",
+        "picture": "Trials® Rising.jpg",
+        "process": null
+    },
+    {
+        "id": 3619,
+        "name": "Watch_Dogs 2",
+        "img": "8ed50864d177441829e82c7afb003f39.png",
+        "platform": "Steam",
+        "title": "Watch_Dogs 2",
+        "appname": "",
+        "picture": "Watch_Dogs® 2.jpg",
+        "process": null
+    },
+    {
+        "id": 3774,
+        "name": "Monopoly Puls",
+        "img": "0a3e183a7d4e98e614b0bc8c153bac98.png",
+        "platform": "Uplay",
+        "title": "Monopoly Puls",
+        "appname": "",
+        "picture": "MONOPOLY® PLUS.jpg",
+        "process": null
+    },
+    {
+        "id": 3775,
+        "name": "Monopoly Plus",
+        "platform": "Steam",
+        "img": "0a3e183a7d4e98e614b0bc8c153bac98.png",
+        "title": "Monopoly Plus",
+        "appname": "",
+        "picture": "MONOPOLY® PLUS.jpg",
+        "process": null
+    },
+    {
+        "id": 4311,
+        "name": "Far Cry 5",
+        "platform": "Steam",
+        "img": "e96bb3464f0934a469078ade5f1d0e0a.png",
+        "title": "Far Cry 5",
+        "appname": "",
+        "picture": "Far Cry® 5.jpg",
+        "process": null
+    },
+    {
+        "id": 4553,
+        "name": "Anno 1800",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Anno 1800",
+        "appname": "",
+        "picture": "Anno 1800.jpg",
+        "process": null
+    },
+    {
+        "id": 4554,
+        "name": "Anno 1800",
+        "platform": "Steam",
+        "img": "",
+        "title": "Anno 1800",
+        "appname": "",
+        "picture": "Anno 1800.jpg",
+        "process": null
+    },
+    {
+        "id": 4472,
+        "name": "Steep Open Beta",
+        "platform": "Steam",
+        "img": "",
+        "title": "Steep Open Beta",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 4919,
+        "name": "Assassin's Creed II China Giveaway",
+        "platform": "Uplay",
+        "img": "aa3e99ad561e41b93d2d2a5a6875409c.png",
+        "title": "Assassin's Creed II",
+        "appname": "",
+        "picture": "Assassin's Creed 2 Deluxe Edition.jpg",
+        "process": null
+    },
+    {
+        "id": 4923,
+        "name": "Assassin's Creed Origins",
+        "img": "173bca0f8923c59a731b6f43a9810970.png",
+        "platform": "Steam",
+        "title": "Assassin's Creed Origins",
+        "appname": "ACOrigins.exe",
+        "picture": "Assassin's Creed® Origins.jpg",
+        "process": null
+    },
+    {
+        "id": 4984,
+        "name": "Tom Clancy's Ghost Recon Wildlands Open Beta",
+        "platform": "Steam",
+        "img": "",
+        "title": "Ghost Recon® Wildlands",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 5059,
+        "name": "Assassin's Creed Odyssey",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Assassin's Creed Odyssey",
+        "appname": "",
+        "picture": "Assassin's Creed® Odyssey.jpg",
+        "process": null
+    },
+    {
+        "id": 5092,
+        "name": "Assassin's Creed Odyssey",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed Odyssey",
+        "appname": "",
+        "picture": "Assassin's Creed® Odyssey.jpg",
+        "process": null
+    },
+    {
+        "id": 5183,
+        "name": "Assassin's Creed III Remastered",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Assassin's Creed III Remastered",
+        "appname": "",
+        "picture": "Assassin's Creed® III Remastered.jpg",
+        "process": null
+    },
+    {
+        "id": 5184,
+        "name": "Assassin's Creed III Remastered",
+        "platform": "Steam",
+        "img": "",
+        "title": "Assassin's Creed III Remastered",
+        "appname": "",
+        "picture": "Assassin's Creed® III Remastered.jpg",
+        "process": null
+    },
+    {
+        "id": 5210,
+        "name": "Far Cry New Dawn",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Far Cry New Dawn",
+        "appname": "",
+        "picture": "Far Cry® New Dawn.jpg",
+        "process": null
+    },
+    {
+        "id": 5211,
+        "name": "Far Cry New Dawn",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Far Cry New Dawn",
+        "appname": "",
+        "picture": "Far Cry® New Dawn.jpg",
+        "process": null
+    },
+    {
+        "id": 5233,
+        "name": "Trials Rising - Open Beta",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Trials Rising - Open Beta",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 5277,
+        "name": "StarLink: Battle for Atlas",
+        "platform": "Uplay",
+        "img": "",
+        "title": "StarLink: Battle for Atlas",
+        "appname": "",
+        "picture": "Starlink - Battle for Atlas.jpg",
+        "process": null
+    },
+    {
+        "id": 9797,
+        "name": "ODE",
+        "platform": "Uplay",
+        "img": "",
+        "title": "ODE",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 10424,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "platform": "Steam",
+        "img": "4bcc8fe47d9a426a72ad499e2b1fb440.png",
+        "title": "Rainbow Six Siege TTS",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 10885,
+        "name": "Steep Road To The Olympics Beta",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Steep Road To The Olympics",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 10886,
+        "name": "Steep Road To The Olympics Beta",
+        "platform": "Steam",
+        "img": "",
+        "title": "Steep Road To The Olympics",
+        "appname": "",
+        "picture": "",
+        "process": null
+    },
+    {
+        "id": 103800,
+        "name": "Anno 1800 - Open Beta",
+        "platform": "Uplay",
+        "img": "",
+        "title": "Anno 1800 - Open Beta",
+        "appname": "",
+        "picture": "",
+        "process": null
+    }
+]
