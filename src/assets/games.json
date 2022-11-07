@@ -730,6 +730,16 @@
         "process": null
     },
     {
+        "id": 3352,
+        "name": "UNO",
+        "platform": "Uplay",
+        "img": "",
+        "title": "UNO",
+        "appname": "",
+        "picture": "UNO.jpg",
+        "process": null
+    },
+    {
         "id": 3360,
         "name": "UNO",
         "platform": "Steam",
