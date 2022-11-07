@@ -3,6 +3,7 @@ import { readDir } from '@tauri-apps/api/fs';
 import { getInstallPath, getSavegamesPath, getUserPicturePath } from "./ubi";
 import { sep } from "@tauri-apps/api/path";
 import { uuid } from "@/utils";
+import { convertFileSrc } from "@tauri-apps/api/tauri";
 
 const getAllUserIds = async (): Promise<Array<string>> => {
     const savegamePath = await getSavegamesPath()
@@ -41,7 +42,7 @@ export const initAllUsers = async (): Promise<Array<User>> => {
         key: uuid(),
         uuid: id,
         username: '',
-        picture: `${avatarsPath}${id}_64.png`,
+        picture: convertFileSrc(`${avatarsPath}${id}_64.png`),
         savegame: `${savegamesPath}${id}${sep}`
     }))
     users.value = userlist

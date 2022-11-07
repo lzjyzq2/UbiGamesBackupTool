@@ -2,19 +2,33 @@ import { Themes } from '@varlet/ui'
 import { readonly, ref } from 'vue';
 
 export const customTheme = {
-    '--action-bg-color': "#3f51b5",
-    "--action-group-bg-color": "#6975b5",
-    "--top-hint-panel-bg-color":"#6975b5",
-    "--game-panel-bg-color":"#6975b5",
-    "--filter-input-bg-color":"#545e91",
+    '--home-bg-color': '#f5f5f5',
+    '--action-bg-color': "#40a9ff",
+    "--action-group-bg-color": "#1890ff",
+    '--toggle-mode-active-color': '#0079e8',
+    "--top-hint-panel-bg-color": "#1890ff",
+    "--game-panel-bg-color": "#ebebeb",
+    '--game-item-title-color': '#141414',
+    '--game-item-bg-color': '#bfbfbf',
+    '--game-item-title-bg-color': '#f5f5f5',
+    '--game-empty-color': '#434343',
+    "--filter-input-bg-color": "#cfcfcf",
+    "--scrollbar-thumb-color": "#cfcfcf"
 }
 export const customThemeDark = {
     ...Themes.dark,
-    '--action-bg-color': "#3f51b5",
-    "--action-group-bg-color": "#3f51b5",
-    "--top-hint-panel-bg-color":"#3f51b5",
-    "--game-panel-bg-color":"#6975b5",
-    "--filter-input-bg-color":"#6975b5",
+    '--home-bg-color': '#141414',
+    '--action-bg-color': "#434343",
+    "--action-group-bg-color": "#262626",
+    '--toggle-mode-active-color': '#1c1a1a',
+    "--top-hint-panel-bg-color": "#262626",
+    "--game-panel-bg-color": "#262626",
+    '--game-item-title-color': '#f5f5f5',
+    '--game-item-bg-color': '#141414',
+    '--game-item-title-bg-color': '#434343',
+    '--game-empty-color': '#434343',
+    "--filter-input-bg-color": "#434343",
+    "--scrollbar-thumb-color": "#dfe4ea"
 }
 
 export const currentTheme = ref(customTheme);

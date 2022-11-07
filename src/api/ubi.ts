@@ -39,7 +39,7 @@ export const getSavegamesPath = async () => {
 export const getUserPicturePath = async () => {
     const installPath = await getInstallPath()
     if (!isBlank(installPath)) {
-        return `${installPath}cache\avatars${sep}`
+        return `${installPath}cache${sep}avatars${sep}`
     }
     return Promise.reject('Not found user avatars path')
 }
