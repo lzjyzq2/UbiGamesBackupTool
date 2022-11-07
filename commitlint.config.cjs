@@ -5,7 +5,7 @@ module.exports = {
   rules: {
     // @see: https://commitlint.js.org/#/reference-rules
     'type-enum': [2, 'always', [
-      'chore'
+      'feat', 'fix', 'docs', 'style', 'refactor', 'perf', 'test', 'build', 'ci', 'revert', 'chore'
     ]],
   },
   prompt: {
