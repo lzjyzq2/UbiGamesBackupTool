@@ -114,18 +114,17 @@ const selectStorePath = async () => {
                 <var-button block type="primary" @click="showRealTimeGamesSettings">添加</var-button>
             </div>
             <template v-if="realTimeGames && realTimeGames.length > 0">
-                <div class="flex flex-row flex-wrap gap-8 items-start">
+                <div class="flex flex-row flex-wrap gap-8 items-start custom-scrollbar">
                     <GameItem v-for="item in realTimeGames" :key="item.id" :game="item" show-only />
                 </div>
             </template>
-
         </var-collapse-item>
     </var-collapse>
     <var-dialog title="添加实时备份游戏" v-model:show="showRealTimeGames" dialogClass="custom-dialog"
         @confirm="confirmRealTimeGamesSettings">
         <div class="w-[100%] h-[100%] flex flex-col">
             <var-input placeholder="请输入搜索条件" v-model="filter" />
-            <div class="mt-2 flex-1 overflow-x-hidden overflow-y-auto flex flex-row flex-wrap gap-8">
+            <div class="mt-2 flex-1 overflow-x-hidden overflow-y-auto flex flex-row flex-wrap gap-8 custom-scrollbar">
                 <GameItem v-for="item in filterGamesSettings" :key="item.id" :game="item" />
             </div>
         </div>

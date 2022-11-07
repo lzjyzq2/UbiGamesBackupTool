@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { Game } from '@/api/game'
 import { toRefs } from 'vue';
-
+import failImgPath from '@/assets/img/gamepad-variant-outline.svg'
 
 export interface Props {
     game: Game,
@@ -19,8 +19,8 @@ const {
 </script>
 
 <template>
-    <div class="game">
-        <var-image :src="'/image/games/' + game.picture" lazy class="rounded-md" width="300" height="140" fit="fill" />
+    <div class="game bg-$game-item-bg-color">
+        <var-image :src="'/image/games/' + game.picture" :error="failImgPath" lazy class="rounded-md" width="300" height="140" fit="fill" />
         <div class="info">
             <var-checkbox v-model="game.selected" v-if="!showOnly">
                 {{ game.title }}
@@ -39,6 +39,6 @@ const {
 }
 
 .game .info {
-    @apply w-[100%] h-[50px] bg-white px-8px py-4px;
+    @apply w-[100%] h-[50px] bg-$game-item-title-bg-color px-8px py-4px text-$game-item-title-color;
 }
 </style>

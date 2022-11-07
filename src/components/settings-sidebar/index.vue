@@ -32,7 +32,7 @@ const doSetCurrentComponent = (component: SettingsComponent) => {
                 <var-icon transition="100" name="chevron-left" />
             </action>
         </div>
-        <div class="action-group">
+        <div class="action-group flex-1">
             <action :label="item.label" @click="doSetCurrentComponent(item)" v-for="item in settingsComponents"
                 :key="item.name" class="mode" :class="{active:currentComponent.name===item.name}">
                 <var-icon transition="100" :name="item.icon" />
@@ -70,6 +70,6 @@ const doSetCurrentComponent = (component: SettingsComponent) => {
 }
 
 .mode.active {
-    background-color: aqua;
+    background-color: var(--toggle-mode-active-color);
 }
 </style>

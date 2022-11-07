@@ -9,6 +9,8 @@ import { appDir } from '@tauri-apps/api/path';
 import { backupGames } from '@/api/ubi'
 import { wait } from '@/utils'
 import { currentMode, Mode } from '../services';
+import gamepanelbackground from '@/assets/img/gamepad-variant-outline.svg'
+
 
 const games: Ref<Array<Game> | null> = ref(null)
 
@@ -101,8 +103,7 @@ const closeLoading = () => {
             <div class="flex-1 bg-$game-panel-bg-color h-[100%] flex items-center p-8px rounded-md">
                 <FilterInput class="w-[100%]" placeholder="请输入筛选游戏名" v-model:value="value" />
             </div>
-            <div style="height: 100%;"
-                class="bg-$game-panel-bg-color px-8px rounded-md flex flex-row gap-8px items-center">
+            <div class="bg-$game-panel-bg-color px-8px rounded-md flex flex-row gap-8px items-center h-[100%]">
                 <var-button @click="selectAllGames(isAllSelected)">
                     <var-icon :name="allSelectedIconName" /> {{ allSelectedText }}
                 </var-button>
@@ -111,12 +112,15 @@ const closeLoading = () => {
                 </var-button>
             </div>
         </div>
-        <div class="game-panel">
+        <div class="game-panel custom-scrollbar">
             <template v-if="filterGames && filterGames.length > 0">
                 <GameItem v-for="item in filterGames" :key="item.id" :game="item" />
             </template>
             <template v-else>
-
+                <div class="h-[100%] w-[100%] flex flex-col items-center justify-center">
+                    <var-image :src="gamepanelbackground" lazy fit="fill" width="300" height="200"/>
+                    <span class="mt-[-20px] text-2xl text-$game-empty-color">~ 什么都没有啦 ~</span>
+                </div>
             </template>
         </div>
     </div>

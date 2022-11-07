@@ -56,6 +56,6 @@ const doAction = (item: { key: string, action: () => void }) => {
 }
 
 .mode.active {
-    background-color: aqua;
+    background-color: var(--toggle-mode-active-color);
 }
 </style>

@@ -150,7 +150,7 @@ const restoreSuccessGames: Ref<Game[] | null> = ref(null)
                 </var-button>
             </div>
         </div>
-        <div class="game-panel">
+        <div class="game-panel custom-scrollbar">
             <template v-if="filterGames && filterGames.length > 0">
                 <GameItem v-for="item in filterGames" :key="item.id" :game="item" />
             </template>
