@@ -4,7 +4,7 @@ import { getAllProcess, Proc } from "./proc";
 import { getSettings } from "./settings";
 import { backupRealTimeGames } from "./ubi";
 
-let watcher: number | null = null;
+let watcher: NodeJS.Timeout | null = null;
 let watching = false
 
 export const startWatcher = () => {

@@ -9,20 +9,20 @@ import { resolve } from 'path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
-    vue(),
     WindiCSS(),
-    components({
-      resolvers: [VarletUIResolver()],
-    }),
     autoImport({
       resolvers: [VarletUIResolver({ autoImport: true })],
     }),
+    components({
+      resolvers: [VarletUIResolver()],
+    }),
+    vue(),
   ],
   resolve: {
-		alias: {
-			'@': resolve(__dirname, './src')
-		}
-	},
+    alias: {
+      '@': resolve(__dirname, './src')
+    }
+  },
   // Vite options tailored for Tauri development and only applied in `tauri dev` or `tauri build`
   // prevent vite from obscuring rust errors
   clearScreen: false,
