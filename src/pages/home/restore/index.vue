@@ -197,7 +197,7 @@ const restoreSuccessGames: Ref<Game[] | null> = ref(null)
 }
 
 .backup-panel .game-panel {
-    @apply flex-1 flex flex-row flex-wrap gap-8px overflow-x-hidden overflow-y-auto p-16px bg-$game-panel-bg-color rounded-t-md;
+    @apply flex-1 flex flex-row flex-wrap content-start gap-8px overflow-x-hidden overflow-y-auto p-16px bg-$game-panel-bg-color rounded-t-md;
 }
 
 .backup-panel .game-panel .game {}
