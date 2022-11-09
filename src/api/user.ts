@@ -1,9 +1,13 @@
-import { readonly, ref, Ref } from "vue"
+import { ref, Ref } from "vue"
 import { readDir } from '@tauri-apps/api/fs';
-import { getInstallPath, getSavegamesPath, getUserPicturePath } from "./ubi";
+import { getSavegamesPath, getUserPicturePath } from "./ubi";
 import { sep } from "@tauri-apps/api/path";
 import { uuid } from "@/utils";
 import { convertFileSrc } from "@tauri-apps/api/tauri";
+import { getSettings } from "./settings";
+
+
+const settings = getSettings()
 
 const getAllUserIds = async (): Promise<Array<string>> => {
     const savegamePath = await getSavegamesPath()
@@ -41,7 +45,7 @@ export const initAllUsers = async (): Promise<Array<User>> => {
     const userlist = userIds.map(id => ({
         key: uuid(),
         uuid: id,
-        username: '',
+        username: settings.value?.users[id] ?? '',
         picture: convertFileSrc(`${avatarsPath}${id}_64.png`),
         savegame: `${savegamesPath}${id}${sep}`
     }))
