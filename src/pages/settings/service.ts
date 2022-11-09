@@ -25,14 +25,14 @@ export const settingsComponents: Array<SettingsComponent> = [{
     icon: 'format-list-checkbox'
 },{
     name: 'user-settings',
-    label: '实时备份',
+    label: '用户设置',
     component: UserSettings,
-    icon: 'format-list-checkbox'
+    icon: 'account-circle-outline'
 }, {
     name: 'about',
     label: '关于',
     component: About,
-    icon: 'format-list-checkbox'
+    icon: 'information-outline'
 }]
 
 const currentComponent = shallowRef(settingsComponents[0])
