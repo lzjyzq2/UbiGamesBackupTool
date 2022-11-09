@@ -22,6 +22,7 @@ declare module '@vue/runtime-core' {
     ToSettings: typeof import('./src/components/sidebar/ToSettings.vue')['default']
     UserItem: typeof import('./src/components/sidebar/UserItem.vue')['default']
     VarButton: typeof import('@varlet/ui')['_ButtonComponent']
+    VarCell: typeof import('@varlet/ui')['_CellComponent']
     VarCheckbox: typeof import('@varlet/ui')['_CheckboxComponent']
     VarChip: typeof import('@varlet/ui')['_ChipComponent']
     VarCollapse: typeof import('@varlet/ui')['_CollapseComponent']
@@ -34,5 +35,6 @@ declare module '@vue/runtime-core' {
     VarPopup: typeof import('@varlet/ui')['_PopupComponent']
     VarStyleProvider: typeof import('@varlet/ui')['_StyleProviderComponent']
     VarSwitch: typeof import('@varlet/ui')['_SwitchComponent']
+    VarTable: typeof import('@varlet/ui')['_TableComponent']
   }
 }

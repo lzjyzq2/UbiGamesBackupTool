@@ -1,10 +1,21 @@
-import { useStorage } from '@vueuse/core'
+import { RemovableRef, useStorage } from '@vueuse/core'
 import { invoke } from '@tauri-apps/api/tauri'
 import { isBlank } from '@/utils'
 import { resolve } from '@tauri-apps/api/path'
 import { createDir, exists } from '@tauri-apps/api/fs'
 
-const settings = useStorage('settings', {
+const settings: RemovableRef<{
+    realTime: {
+        enabled: boolean,
+        storePath: string,
+        startTipEnabled: boolean,
+        stopTipEnabled: boolean,
+        games: number[]
+    },
+    users: {
+        [key: string]: string
+    }
+}> = useStorage('settings', {
     realTime: {
         enabled: false,
         storePath: '',
@@ -12,6 +23,8 @@ const settings = useStorage('settings', {
         stopTipEnabled: true,
         games: new Array<number>()
     },
+    users: {
+    }
 })
 
 const initRealTimeStorePath = async () => {

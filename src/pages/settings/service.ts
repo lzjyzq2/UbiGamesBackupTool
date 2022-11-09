@@ -2,6 +2,7 @@ import { Component, DefineComponent, readonly, ref, markRaw, shallowRef } from "
 import General from '@/pages/settings/general/index.vue'
 import RealTime from '@/pages/settings/real-time/index.vue'
 import About from '@/pages/settings/about/index.vue'
+import UserSettings from '@/pages/settings/user-settings/index.vue'
 import { RouteComponent } from "vue-router";
 
 
@@ -21,6 +22,11 @@ export const settingsComponents: Array<SettingsComponent> = [{
     name: 'realtime',
     label: '实时备份',
     component: RealTime,
+    icon: 'format-list-checkbox'
+},{
+    name: 'user-settings',
+    label: '实时备份',
+    component: UserSettings,
     icon: 'format-list-checkbox'
 }, {
     name: 'about',

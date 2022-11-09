@@ -38,6 +38,6 @@ const {
     @apply w-[30px] h-[30px];
 }
 .action .label{
-    @apply flex-1 flex-nowrap whitespace-nowrap mr-8px select-none overflow-hidden;
+    @apply flex-1 flex-nowrap whitespace-nowrap mr-8px select-none overflow-hidden ml-4px;
 }
 </style>
