@@ -13,9 +13,11 @@
   "tauri": {
     "allowlist": {
       "all": true,
-      "fs":{
+      "fs": {
         "all": true,
-        "scope": ["*"]
+        "scope": [
+          "*"
+        ]
       },
       "notification": {
         "all": true
@@ -23,7 +25,9 @@
       "protocol": {
         "all": false,
         "asset": true,
-        "assetScope": ["*"]
+        "assetScope": [
+          "*"
+        ]
       }
     },
     "bundle": {
@@ -71,7 +75,9 @@
         "height": 600,
         "resizable": true,
         "title": "ubigamesbackuptool",
-        "width": 800
+        "width": 800,
+        "minWidth": 800,
+        "minHeight": 600
       }
     ]
   }
