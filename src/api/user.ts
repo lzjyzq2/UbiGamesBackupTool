@@ -45,7 +45,7 @@ export const initAllUsers = async (): Promise<Array<User>> => {
     const userlist = userIds.map(id => ({
         key: uuid(),
         uuid: id,
-        username: settings.value?.users[id] ?? '',
+        username: getSettingsUsername(id),
         picture: convertFileSrc(`${avatarsPath}${id}_64.png`),
         savegame: `${savegamesPath}${id}${sep}`
     }))
@@ -60,4 +60,11 @@ export const getAllUsers = () => {
 
 export const setUsers = (tempUsers: Array<User>) => {
     users.value = tempUsers
+}
+
+const getSettingsUsername = (id: string) => {
+    if (settings.value.users && settings.value?.users[id]) {
+        return settings.value?.users[id]
+    }
+    return ''
 }
