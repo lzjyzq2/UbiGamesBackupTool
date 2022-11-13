@@ -96,9 +96,6 @@ const closeLoading = () => {
 
 <template>
     <div class="backup-panel">
-        <div class="top-hint-panel">
-            请选择备份游戏
-        </div>
         <div class="tool-panel">
             <div class="flex-1 bg-$game-panel-bg-color h-[100%] flex items-center p-8px rounded-md">
                 <FilterInput class="w-[100%]" placeholder="请输入筛选游戏名" v-model:value="value" />

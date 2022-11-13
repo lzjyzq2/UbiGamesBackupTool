@@ -16,12 +16,15 @@ declare module '@vue/runtime-core' {
     RouterView: typeof import('vue-router')['RouterView']
     SettingsSidebar: typeof import('./src/components/settings-sidebar/index.vue')['default']
     Sidebar: typeof import('./src/components/sidebar/index.vue')['default']
+    SvgIcon: typeof import('./src/components/SvgIcon.vue')['default']
     ToggleActions: typeof import('./src/components/sidebar/ToggleActions.vue')['default']
     ToggleMode: typeof import('./src/components/sidebar/ToggleMode.vue')['default']
     ToggleTheme: typeof import('./src/components/sidebar/ToggleTheme.vue')['default']
     ToSettings: typeof import('./src/components/sidebar/ToSettings.vue')['default']
     UserItem: typeof import('./src/components/sidebar/UserItem.vue')['default']
+    VarAppBar: typeof import('@varlet/ui')['_AppBarComponent']
     VarButton: typeof import('@varlet/ui')['_ButtonComponent']
+    VarCell: typeof import('@varlet/ui')['_CellComponent']
     VarCheckbox: typeof import('@varlet/ui')['_CheckboxComponent']
     VarChip: typeof import('@varlet/ui')['_ChipComponent']
     VarCollapse: typeof import('@varlet/ui')['_CollapseComponent']
@@ -31,9 +34,13 @@ declare module '@vue/runtime-core' {
     VarImage: typeof import('@varlet/ui')['_ImageComponent']
     VarInput: typeof import('@varlet/ui')['_InputComponent']
     VarLoading: typeof import('@varlet/ui')['_LoadingComponent']
+    VarMenu: typeof import('@varlet/ui')['_MenuComponent']
     VarPopup: typeof import('@varlet/ui')['_PopupComponent']
     VarStyleProvider: typeof import('@varlet/ui')['_StyleProviderComponent']
     VarSwitch: typeof import('@varlet/ui')['_SwitchComponent']
     VarTable: typeof import('@varlet/ui')['_TableComponent']
+  }
+  export interface ComponentCustomProperties {
+    vRipple: typeof import('@varlet/ui')['_RippleComponent']
   }
 }

@@ -13,13 +13,6 @@ const doChooseUser = (targetUser: User) => {
 <template>
     <div class="sidebar">
         <div class="action-group">
-            <RouteBack />
-        </div>
-        <div class="action-group">
-            <ToggleTheme />
-            <ToggleActions />
-        </div>
-        <div class="action-group">
             <ToggleMode />
         </div>
         <div class="action-group flex-1 overflow-auto">
@@ -28,6 +21,7 @@ const doChooseUser = (targetUser: User) => {
         </div>
 
         <div class="action-group">
+            <ToggleActions />
             <ToSettings />
         </div>
     </div>

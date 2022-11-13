@@ -193,7 +193,7 @@ const restoreSuccessGames: Ref<Game[] | null> = ref(null)
 }
 
 .backup-panel .top-hint-panel {
-    @apply h-[48px] w-[100%] bg-$top-hint-panel-bg-color rounded-b-md flex items-center justify-center text-white mb-8px;
+    @apply h-[30px] w-[100%] bg-$top-hint-panel-bg-color rounded-md flex items-center justify-center text-white mb-8px;
 }
 
 .backup-panel .game-panel {

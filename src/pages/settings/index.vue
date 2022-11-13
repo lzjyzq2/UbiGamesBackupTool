@@ -15,7 +15,7 @@ const currentComponent = getCurrentComponent()
 
 <style scoped>
 .home-layout {
-    @apply flex flex-row h-[100vh] w-[100%] overflow-hidden;
+    @apply flex flex-row h-[100%] w-[100%] overflow-hidden pt-2;
 }
 
 .home-layout .middle {

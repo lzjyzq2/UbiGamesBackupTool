@@ -12,7 +12,7 @@
 
 <style scoped>
 .home-layout {
-    @apply flex flex-row h-[100vh] w-[100%] overflow-hidden bg-$home-bg-color;
+    @apply flex flex-row h-[100%] w-[100%] overflow-hidden bg-$home-bg-color pt-2;
 }
 .home-layout .middle{
     @apply h-[100%] w-[100%] overflow-hidden px-16px;

@@ -20,6 +20,7 @@
     }
   },
   "dependencies": {
+    "@mdi/js": "^7.0.96",
     "@tauri-apps/api": "^1.2.0",
     "@varlet/touch-emulator": "^1.27.20",
     "@varlet/ui": "^2.0.2",
