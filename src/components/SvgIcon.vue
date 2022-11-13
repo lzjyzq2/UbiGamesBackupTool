@@ -19,10 +19,10 @@ import { computed, toRefs } from 'vue';
 export interface Props {
     type: string,
     path: string,
-    size: string | number,
+    size?: string | number,
     viewbox?: string,
     flip?: Flip,
-    rotate: number
+    rotate?: number
 }
 
 const props = withDefaults(defineProps<Props>(), {
