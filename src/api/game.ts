@@ -6,6 +6,7 @@ import { getUserPicturePath } from './ubi';
 import { getCurrentUser, User } from './user';
 import { getSettings } from './settings';
 import { Ref, ref } from 'vue';
+import { convertFileSrc } from "@tauri-apps/api/tauri";
 
 export interface Game {
     id: number;
@@ -74,7 +75,7 @@ export const loadRestoreUsers = async (restorePath: string) => {
                 const backinfo = await resolve(it.path, 'backinfo.json')
                 const user: User = JSON.parse(await readTextFile(backinfo))
                 user.key = user.key ? user.key : uuid()
-                user.picture = `${avatarsPath}${user.uuid}_64.png`
+                user.picture = convertFileSrc(`${avatarsPath}${user.uuid}_64.png`)
                 user.savegame = `${it.path}${sep}`
                 return user
             }))
