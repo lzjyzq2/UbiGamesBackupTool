@@ -27,7 +27,7 @@ UbiGamesBackupTool
 
 
 ## 📷 截图
-![](docs/images//screenshot.png)
+![](docs/images/screenshot.png)
 
 ## ✨ 适用群体
 - 需要备份不支持 Uplay 云存档的单机游戏的玩家（如：《刺客信条：黑旗》《细胞分裂：黑名单》等）
@@ -44,7 +44,7 @@ UbiGamesBackupTool
 ## 🚀 开发
 ### 📦 增加支持备份的游戏
 
-支持备份的游戏列表清单存放于[`src\assets\games.json`](src\assets\games.json)中，以《刺客信条：起源》为例其格式内容及意义如下：
+支持备份的游戏列表清单存放于[`src\assets\games.json`](src/assets/games.json)中，以《刺客信条：起源》为例其格式内容及意义如下：
 
 ```json
 [
@@ -63,15 +63,15 @@ UbiGamesBackupTool
 ]
 ```
 
-当你想要让一个游戏支持备份时，在[`src\assets\games.json`](src\assets\games.json)数组尾部增加对于配置，即可支持该游戏备份与还原。
+当你想要让一个游戏支持备份时，在[`src\assets\games.json`](src/assets/games.json)数组尾部增加对于配置，即可支持该游戏备份与还原。
 
 ### 🕑 增加支持实时备份的游戏
 
-如果该游戏配置已存在于[`src\assets\games.json`](src\assets\games.json)中，但不支持实时备份，可将已确认的`游戏进程可执行文件名称`填写到对应配置的`appname`上，若该游戏配置不存在，则添加上改配置的同时，配置其`appname`。
+如果该游戏配置已存在于[`src\assets\games.json`](src/assets/games.json)中，但不支持实时备份，可将已确认的`游戏进程可执行文件名称`填写到对应配置的`appname`上，若该游戏配置不存在，则添加上改配置的同时，配置其`appname`。
 
 ## 🛠 提交代码
 本项目使用`husky`和`commitlint`在提交时进行commits格式检查，你可以使用`git cz`交互式命令来创建一个规范的提交信息。
 
 ## 🔍 反馈问题 & 联系方式
-- QQ群：177565385 （[点此加群](http://qm.qq.com/cgi-bin/qm/qr?k=4i2b084zpghCqs_QDJPPbldona9HMgtT&group_code=177565385)）
+- QQ群：287474030 （[点此加群](https://jq.qq.com/?_wv=1027&k=6vthnRcm)）
 - 使用本项目的 [Issues 页面](https://github.com/JueLuo99/UbiGamesBackupToolX/issues)
