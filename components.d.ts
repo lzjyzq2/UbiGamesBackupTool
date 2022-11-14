@@ -24,7 +24,6 @@ declare module '@vue/runtime-core' {
     UserItem: typeof import('./src/components/sidebar/UserItem.vue')['default']
     VarAppBar: typeof import('@varlet/ui')['_AppBarComponent']
     VarButton: typeof import('@varlet/ui')['_ButtonComponent']
-    VarCell: typeof import('@varlet/ui')['_CellComponent']
     VarCheckbox: typeof import('@varlet/ui')['_CheckboxComponent']
     VarChip: typeof import('@varlet/ui')['_ChipComponent']
     VarCollapse: typeof import('@varlet/ui')['_CollapseComponent']
@@ -34,13 +33,9 @@ declare module '@vue/runtime-core' {
     VarImage: typeof import('@varlet/ui')['_ImageComponent']
     VarInput: typeof import('@varlet/ui')['_InputComponent']
     VarLoading: typeof import('@varlet/ui')['_LoadingComponent']
-    VarMenu: typeof import('@varlet/ui')['_MenuComponent']
     VarPopup: typeof import('@varlet/ui')['_PopupComponent']
     VarStyleProvider: typeof import('@varlet/ui')['_StyleProviderComponent']
     VarSwitch: typeof import('@varlet/ui')['_SwitchComponent']
     VarTable: typeof import('@varlet/ui')['_TableComponent']
-  }
-  export interface ComponentCustomProperties {
-    vRipple: typeof import('@varlet/ui')['_RippleComponent']
   }
 }
